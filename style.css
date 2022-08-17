@@ -5,3 +5,13 @@ background: #ffc8dd
 #slogan{
     font-size: 25px;
 }
+.capa{
+    width: 80%;
+    height: 80%;
+}
+.conteudo{
+    background: rgb(254, 217, 223);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(241, 81, 255);
+    
+}

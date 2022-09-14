@@ -1,4 +1,7 @@
-body {
+body {background: #ffc8dd
+
+}
+main {
 text-align: center;
 background: #ffc8dd
 }
@@ -14,4 +17,7 @@ background: #ffc8dd
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(50, 2, 54);
     
+}
+.beneficios {
+    background-color:#fcaac8 ;
 }
